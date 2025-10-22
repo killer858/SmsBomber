@@ -37,7 +37,7 @@
 برای شروع کار مراحل زیر را در ترمینال اجرا کنید:
 
 ```bash
-git clone https://github.com/PouyaFakham/Sms-Bobmer.git
+git clone https://github.com/killer858/SmsBomber
 cd Sms-Bobmer
 pip install -r requirements.txt
 python bomber.py
