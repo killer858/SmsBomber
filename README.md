@@ -38,6 +38,6 @@
 
 ```bash
 git clone https://github.com/killer858/SmsBomber
-cd Sms-Bobmer
+cd SmsBobmer
 pip install -r requirements.txt
 python bomber.py
